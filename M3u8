@@ -1,0 +1,565 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ HD
+http://159.65.84.169/loadbalance/boborj/chunks.m3u8?pxAuth=vN6MZ36alxooDLuWAgyvvOADILmyJBOt
+
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo SP
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/89.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band HD" tvg-logo="http://i.imgur.com/1yYrkhc.png" group-title="Canais Abertos",Band HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/193.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/147.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/149.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV! HD" tvg-logo="http://i.imgur.com/yxGs0mZ.png" group-title="Canais Abertos",RedeTV! HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/148.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura HD" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Canais Abertos",TV Cultura HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/564.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Canais Abertos",Futura
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/91.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola HD" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Canais Abertos",TV Escola HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/565.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Canais Abertos",TV Brasil
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/9.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Rede Família" tvg-name="Rede Família HD" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="Canais Abertos",Rede Família HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/569.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="Canais Abertos",Terra Viva
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/16.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais Abertos",Canal Rural
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/119.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="Canais Abertos",Agro Canal
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/568.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais Abertos",NBR
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/63.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais Abertos",TV Câmara
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/567.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/138.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/18.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",Telecine Action HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/141.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/22.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/137.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/17.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/139.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/19.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",Telecine Fun HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/140.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/20.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/21.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/165.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/84.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/167.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO2
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/79.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/164.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/82.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO Plus Panregional" tvg-name="HBO Plus *e" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus *e
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/81.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO Family HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/166.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/83.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO Signature HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/163.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/80.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="Max" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",Max
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/73.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Séries",Max UP
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/70.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/72.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="Max Prime *e" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime *e
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/71.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/115.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",FOX HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/175.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",FOX
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/95.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1 HD" tvg-logo="http://i.imgur.com/UdWwHl4.png" group-title="Filmes e Séries",FOX Premium 1 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/177.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 HD" tvg-logo="http://i.imgur.com/nX8XMzD.png" group-title="Filmes e Séries",FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/176.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Séries",FOX Life HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/174.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Séries",FOX Life
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/94.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/171.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/90.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",Canal Sony HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/190.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Canal Sony
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/118.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/194.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/128.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Séries",Warner Channel HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/580.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner Channel
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/2.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/146.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/32.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/136.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/13.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/135.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/12.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/142.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/24.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/23.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e Séries",I.Sat
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/78.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/160.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/69.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/134.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/5.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/26.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/132.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/25.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Filmes e Séries",Mais Globosat
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/74.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Séries",Canal Brasil
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/120.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount Channel HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/155.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/57.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Filmes e Séries",Prime Box Brazil
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/45.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV HD" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/143.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/31.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2 HD" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/145.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/30.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3 HD" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/144.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/28.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",FOX Sports HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/173.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",FOX Sports
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/93.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2 HD" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/172.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",FOX Sports 2
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/92.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil HD" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/180.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/98.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/179.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/99.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/181.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/182.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/101.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/183.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/100.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Músicas",GNT HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/169.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Músicas",GNT
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/86.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Músicas",Viva HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/133.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Músicas",Viva
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/3.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Músicas",Multishow HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/159.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Músicas",Multishow
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/67.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Músicas",BIS HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/191.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Músicas",BIS
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/122.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Músicas",MTV
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/68.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MegaHits" tvg-logo="http://i.imgur.com/qgozfSK.png" group-title="Variedades e Músicas",VH1 MegaHits
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/4.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="MixTV" tvg-name="Mix TV" tvg-logo="http://i.imgur.com/uCt1ZhV.png" group-title="Variedades e Músicas",Mix TV
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/572.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedades e Músicas",Music Box Brazil
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/66.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Variedades e Músicas",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/185.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Variedades e Músicas",Discovery Turbo
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/106.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Variedades e Músicas",TruTV
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/10.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades e Músicas",Comedy Central
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/113.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery HD" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Variedades e Músicas",Investigação Discovery HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/161.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Variedades e Músicas",Investigação Discovery
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/77.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://i.imgur.com/ccfBNRH.png" group-title="Variedades e Músicas",Discovery Home&Health HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/187.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Variedades e Músicas",Discovery Home&Health
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/109.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/2zr2KmL.png" group-title="Variedades e Músicas",Lifetime
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/75.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Variedades e Músicas",TLC
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/14.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Músicas",E!
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/102.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades e Músicas",Food Network
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/96.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Variedades e Músicas",Curta!
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/112.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="Documentários",Animal Planet HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/195.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/131.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentários",Discovery Channel HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/188.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/186.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/184.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentários",Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/111.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/107.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/110.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo HD" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",Nat Geo HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/157.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",Nat Geo
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/64.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/158.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/65.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentários",History Channel HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/162.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/15.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentários",H2 HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/168.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/85.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews HD" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",GloboNews HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1449.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",GloboNews
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/88.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/129.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",BandNews
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/126.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/42.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/121.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil",Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/116.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/11.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/60.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/61.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/103.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/105.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/104.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantil",Discovery Kids
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/108.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/87.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PlayTV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Infantil",PlayTV
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/56.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Rá Tim Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá Tim Bum
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/7.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Cancao Nova" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Cancao Nova
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/117.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/38.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/130.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/574.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="Rede Super" tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="Religiosos",Rede Super
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/575.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://i.imgur.com/mxBB8c4.png" group-title="Religiosos",RIT
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/37.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideões" tvg-logo="http://i.imgur.com/mwtWkvu.png" group-title="Religiosos",TV Gideões
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1214.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="http://i.imgur.com/liOLnFU.png" group-title="Religiosos",TV Novo Tempo
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/59.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI" tvg-logo="http://i.imgur.com/y8YCFOZ.png" group-title="Religiosos",RBI
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/44.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Religiosos",Ideal TV
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/76.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Fox Sports 1 (US)" tvg-name="FOX Sports 1 HD USA" tvg-logo="http://i.imgur.com/32eu7Y7.png" group-title="Estados Unidos",FOX Sports 1 HD USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/998.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD USA" tvg-logo="http://i.imgur.com/M4N6kM0.png" group-title="Estados Unidos",FOX Sports 2 HD USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/997.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ESPN (US)" tvg-name="ESPN HD USA" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Estados Unidos",ESPN HD USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1270.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="http://i.imgur.com/NJkCkmV.png" group-title="Estados Unidos",NFL Network HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1000.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="http://i.imgur.com/ENG1GYF.png" group-title="Estados Unidos",MLB Network
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1282.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV USA" tvg-logo="http://i.imgur.com/1tzZuaF.png" group-title="Estados Unidos",NBA TV USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1003.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ABC (US)" tvg-name="ABC HD" tvg-logo="http://i.imgur.com/dRMIwNg.png" group-title="Estados Unidos",ABC HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/992.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="ABC Family (US)" tvg-name="Freeform" tvg-logo="http://i.imgur.com/PXK5NjS.png" group-title="Estados Unidos",Freeform
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1281.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="USA (US)" tvg-name="USA HD" tvg-logo="http://i.imgur.com/RYbtjry.png" group-title="Estados Unidos",USA HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1284.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="NBC (US)" tvg-name="NBC" tvg-logo="http://i.imgur.com/hqOfsNl.png" group-title="Estados Unidos",NBC
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1286.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="CW (US)" tvg-name="CW HD" tvg-logo="http://i.imgur.com/xq7xFPg.png" group-title="Estados Unidos",CW HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1285.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="AMC (US)" tvg-name="AMC HD USA" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Estados Unidos",AMC HD USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1275.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="CBS (US)" tvg-name="CBS" tvg-logo="http://i.imgur.com/UmSi5js.png" group-title="Estados Unidos",CBS
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1288.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="HBO (US)" tvg-name="HBO USA" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Estados Unidos",HBO USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/991.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://i.imgur.com/P4hS52T.png" group-title="Estados Unidos",HBO Comedy
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/990.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="FOX (US)" tvg-name="FOX HD USA" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Estados Unidos",FOX HD USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/598.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="FX (US)" tvg-name="FX HD USA" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Estados Unidos",FX HD USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/989.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="A&E (US)" tvg-name="A&E HD USA" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Estados Unidos",A&E HD USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1289.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Spike (US)" tvg-name="Spike HD" tvg-logo="http://i.imgur.com/x7LmSXL.png" group-title="Estados Unidos",Spike HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1277.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="" tvg-name="Action Max" tvg-logo="http://i.imgur.com/xlHPhi2.png" group-title="Estados Unidos",Action Max
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/988.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Channel (US)" tvg-name="Discovery Channel USA HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Estados Unidos",Discovery Channel USA HD
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1279.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1 tvg-id="Discovery Science (US)" tvg-name="Discovery Science USA" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Estados Unidos",Discovery Science USA
+plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1276.ts&amp;streamtype=TSDOWNLOADER
